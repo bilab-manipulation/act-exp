@@ -1,7 +1,7 @@
 import pathlib
 
 ### Task parameters
-DATA_DIR = '/home/bi_admin/바탕화면/act-exp/data'
+DATA_DIR = '/home/work/.jinupahk/virtualkss/act-exp/data'
 SIM_TASK_CONFIGS = {
     'sim_transfer_cube_scripted':{
         'dataset_dir': DATA_DIR + '/sim_transfer_cube_scripted',

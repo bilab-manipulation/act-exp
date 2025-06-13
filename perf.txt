@@ -1,0 +1,264 @@
+<insertion>
+#eval
+##10
+Success rate: 0.0
+Average return: 49.65
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 5/20 = 25.0%
+Reward >= 2: 3/20 = 15.0%
+Reward >= 3: 2/20 = 10.0%
+Reward >= 4: 0/20 = 0.0%
+##25
+Success rate: 0.05
+Average return: 79.9
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 6/20 = 30.0%
+Reward >= 2: 4/20 = 20.0%
+Reward >= 3: 3/20 = 15.0%
+Reward >= 4: 1/20 = 5.0%
+##50
+Success rate: 0.15
+Average return: 243.0
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 15/20 = 75.0%
+Reward >= 2: 13/20 = 65.0%
+Reward >= 3: 11/20 = 55.00000000000001%
+Reward >= 4: 3/20 = 15.0%
+##75
+Success rate: 0.15
+Average return: 413.0
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 14/20 = 70.0%
+Reward >= 2: 14/20 = 70.0%
+Reward >= 3: 12/20 = 60.0%
+Reward >= 4: 3/20 = 15.0%
+##100
+Success rate: 0.25
+Average return: 311.15
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 12/20 = 60.0%
+Reward >= 2: 9/20 = 45.0%
+Reward >= 3: 7/20 = 35.0%
+Reward >= 4: 5/20 = 25.0%
+##125
+Success rate: 0.15
+Average return: 268.0
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 12/20 = 60.0%
+Reward >= 2: 9/20 = 45.0%
+Reward >= 3: 8/20 = 40.0%
+Reward >= 4: 3/20 = 15.0%
+##150
+Success rate: 0.15
+Average return: 278.35
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 15/20 = 75.0%
+Reward >= 2: 10/20 = 50.0%
+Reward >= 3: 9/20 = 45.0%
+Reward >= 4: 3/20 = 15.0%
+##200
+Success rate: 0.25
+Average return: 331.95
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 14/20 = 70.0%
+Reward >= 2: 10/20 = 50.0%
+Reward >= 3: 10/20 = 50.0%
+Reward >= 4: 5/20 = 25.0%
+
+#eval with temp agg
+##10
+Success rate: 0.0
+Average return: 29.45
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 5/20 = 25.0%
+Reward >= 2: 2/20 = 10.0%
+Reward >= 3: 0/20 = 0.0%
+Reward >= 4: 0/20 = 0.0%
+##25
+Success rate: 0.0
+Average return: 25.4
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 2/20 = 10.0%
+Reward >= 2: 1/20 = 5.0%
+Reward >= 3: 1/20 = 5.0%
+Reward >= 4: 0/20 = 0.0%
+##50
+Success rate: 0.1
+Average return: 291.1
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 14/20 = 70.0%
+Reward >= 2: 10/20 = 50.0%
+Reward >= 3: 9/20 = 45.0%
+Reward >= 4: 2/20 = 10.0%
+##75
+Success rate: 0.15
+Average return: 443.65
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 15/20 = 75.0%
+Reward >= 2: 13/20 = 65.0%
+Reward >= 3: 13/20 = 65.0%
+Reward >= 4: 3/20 = 15.0%
+##100
+Success rate: 0.15
+Average return: 346.75
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 12/20 = 60.0%
+Reward >= 2: 11/20 = 55.00000000000001%
+Reward >= 3: 10/20 = 50.0%
+Reward >= 4: 3/20 = 15.0%
+##125
+Success rate: 0.15
+Average return: 441.25
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 15/20 = 75.0%
+Reward >= 2: 13/20 = 65.0%
+Reward >= 3: 12/20 = 60.0%
+Reward >= 4: 3/20 = 15.0%
+##150
+Success rate: 0.3
+Average return: 311.4
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 13/20 = 65.0%
+Reward >= 2: 10/20 = 50.0%
+Reward >= 3: 10/20 = 50.0%
+Reward >= 4: 6/20 = 30.0%
+##200
+Success rate: 0.35
+Average return: 386.55
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 12/20 = 60.0%
+Reward >= 2: 11/20 = 55.00000000000001%
+Reward >= 3: 11/20 = 55.00000000000001%
+Reward >= 4: 7/20 = 35.0%
+
+<transfer_cube>
+#eval
+##10
+Success rate: 0.05
+Average return: 32.35
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 6/20 = 30.0%
+Reward >= 2: 4/20 = 20.0%
+Reward >= 3: 1/20 = 5.0%
+Reward >= 4: 1/20 = 5.0%
+##25
+Success rate: 0.55
+Average return: 389.55
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 16/20 = 80.0%
+Reward >= 2: 14/20 = 70.0%
+Reward >= 3: 11/20 = 55.00000000000001%
+Reward >= 4: 11/20 = 55.00000000000001%
+##50
+Success rate: 0.4
+Average return: 338.65
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 19/20 = 95.0%
+Reward >= 2: 13/20 = 65.0%
+Reward >= 3: 8/20 = 40.0%
+Reward >= 4: 8/20 = 40.0%
+##75
+Success rate: 0.3
+Average return: 231.55
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 18/20 = 90.0%
+Reward >= 2: 12/20 = 60.0%
+Reward >= 3: 6/20 = 30.0%
+Reward >= 4: 6/20 = 30.0%
+##100
+Success rate: 0.4
+Average return: 309.75
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 18/20 = 90.0%
+Reward >= 2: 13/20 = 65.0%
+Reward >= 3: 8/20 = 40.0%
+Reward >= 4: 8/20 = 40.0%
+##125
+Success rate: 0.55
+Average return: 383.55
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 19/20 = 95.0%
+Reward >= 2: 17/20 = 85.0%
+Reward >= 3: 11/20 = 55.00000000000001%
+Reward >= 4: 11/20 = 55.00000000000001%
+##150
+Success rate: 0.3
+Average return: 230.05
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 17/20 = 85.0%
+Reward >= 2: 12/20 = 60.0%
+Reward >= 3: 6/20 = 30.0%
+Reward >= 4: 6/20 = 30.0%
+##200
+Success rate: 0.25
+Average return: 205.05
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 20/20 = 100.0%
+Reward >= 2: 17/20 = 85.0%
+Reward >= 3: 5/20 = 25.0%
+Reward >= 4: 5/20 = 25.0%
+#eval with temp agg
+##10
+Success rate: 0.1
+Average return: 58.75
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 4/20 = 20.0%
+Reward >= 2: 3/20 = 15.0%
+Reward >= 3: 2/20 = 10.0%
+Reward >= 4: 2/20 = 10.0%
+##25
+Success rate: 0.5
+Average return: 274.95
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 15/20 = 75.0%
+Reward >= 2: 14/20 = 70.0%
+Reward >= 3: 10/20 = 50.0%
+Reward >= 4: 10/20 = 50.0%
+##50
+Success rate: 0.35
+Average return: 301.9
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 20/20 = 100.0%
+Reward >= 2: 14/20 = 70.0%
+Reward >= 3: 7/20 = 35.0%
+Reward >= 4: 7/20 = 35.0%
+##75
+Success rate: 0.2
+Average return: 169.15
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 19/20 = 95.0%
+Reward >= 2: 7/20 = 35.0%
+Reward >= 3: 4/20 = 20.0%
+Reward >= 4: 4/20 = 20.0%
+##100
+Success rate: 0.25
+Average return: 214.4
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 20/20 = 100.0%
+Reward >= 2: 9/20 = 45.0%
+Reward >= 3: 5/20 = 25.0%
+Reward >= 4: 5/20 = 25.0%
+##125
+Success rate: 0.7
+Average return: 447.85
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 20/20 = 100.0%
+Reward >= 2: 16/20 = 80.0%
+Reward >= 3: 14/20 = 70.0%
+Reward >= 4: 14/20 = 70.0%
+##150
+Success rate: 0.55
+Average return: 372.7
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 18/20 = 90.0%
+Reward >= 2: 14/20 = 70.0%
+Reward >= 3: 11/20 = 55.00000000000001%
+Reward >= 4: 11/20 = 55.00000000000001%
+##200
+Success rate: 0.7
+Average return: 471.45
+Reward >= 0: 20/20 = 100.0%
+Reward >= 1: 19/20 = 95.0%
+Reward >= 2: 17/20 = 85.0%
+Reward >= 3: 14/20 = 70.0%
+Reward >= 4: 14/20 = 70.0%
